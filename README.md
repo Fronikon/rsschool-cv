@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fronikon.github.io/rsschool-cv/cv
