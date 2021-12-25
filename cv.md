@@ -9,7 +9,7 @@
 
 ## About me:
 
-Blank..
+My main goal is to get the necessary knowledge for further employment. I consider purposefulness, responsibility and the ability to solve tasks to be my distinctive abilities.
 
 ## Skills:
 
