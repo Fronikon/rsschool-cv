@@ -15,12 +15,13 @@ My main goal is to get the necessary knowledge for further employment. I conside
 
 * __HTML__
 * __CSS__
+* __SCSS__
 * __JS__
 * __Git\GitHub__
 
 ## Education:
 * __HTML-Academy__
-* __RS-school__ stage-0 (in process..)
+* __RS-school__ stage-0, stage-1 (in process..)
 
 ## Languages:
 
